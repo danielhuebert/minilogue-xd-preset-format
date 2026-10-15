@@ -1,0 +1,7 @@
+out/
+__pycache__/
+*.pyc
+# Presets ausgeschlossen (Werks-/fremde Inhalte); Ordner bleibt per .gitkeep erhalten
+/presets/*
+!/presets/.gitkeep
+.DS_Store
